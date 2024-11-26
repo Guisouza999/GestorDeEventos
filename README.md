@@ -37,3 +37,6 @@ Melhorias Futuras
 Implementar persistência de dados com arquivos.
 Expandir os limites de registros para permitir entrada dinâmica.
 Desenvolver uma interface gráfica para melhorar a experiência do usuário.
+
+
+Meu linkedin: www.linkedin.com/in/gsouzadev 
